@@ -1,4 +1,6 @@
 package example;
+package gradle.com;
+package logger;
 
 import com.google.common.base.Joiner;
 
