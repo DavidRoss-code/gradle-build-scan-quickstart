@@ -1,5 +1,5 @@
 plugins {
-    id "com.gradle.enterprise" version "3.13",
+    id "com.gradle.enterprise" version "3.14.1",
     id 'com.jfrog.bintray' version '1.8.5',
     id 'com.testxml.hello' version '1.0.0' apply false
     implementationClass = 'my.MyPlugin'
